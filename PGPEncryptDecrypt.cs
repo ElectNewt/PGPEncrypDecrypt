@@ -5,7 +5,7 @@ using Org.BouncyCastle.Security;
 using Org.BouncyCastle.Utilities.IO;
 using System.IO;
 
-namespace RepairUpload.Classes
+namespace PGPEncryptDecrypt
 {
     public static class PGPEncryptDecrypt
     {
