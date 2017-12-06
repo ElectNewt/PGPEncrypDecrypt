@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using Org.BouncyCastle.Bcpg.OpenPgp;
 
-namespace RepairUpload.Classes
+namespace PGPEncryptDecrypt
 {
     public class PgpEncryptionKeys
     {
