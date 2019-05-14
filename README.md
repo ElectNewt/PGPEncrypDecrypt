@@ -1,5 +1,5 @@
 # PGPEncrypDecrypt
-Allow to encrypt and decrypt PGP files.
+classes which allows you to encrypt and decrypt PGP files
 
 ## Dependencies
 bouncycastle URL('http://www.bouncycastle.org/csharp/')
